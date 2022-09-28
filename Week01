@@ -1,0 +1,52 @@
+<Contents>
+1. 2D
+   # What is 2D?
+     ## What is Dimension?
+        ### Then why we use 2D?
+2. Digital
+3. Compositing
+4. Color
+   # What is color? 
+   ## What is ALPHA & OMEGA?
+5. Colorspace / Gamut
+   # why does it matter?
+   ## what are we using?
+ 
+***
+
+# 1.2D
+    ## What is 2D?
+       > 2D에서 D는 Dimension,차원을 뜻한다. 
+         즉 2D는 이차원을 말하는데, 이것은 X축과 y축으로만 구성된 공간이다. 점,선,면의 위상을 띄고 있으며 입체적이지 않고 평면적이다.
+    ### What is Dimension?
+        > 그림1![화면 캡처 2022-09-08 174428](https://user-images.githubusercontent.com/112813981/189083149-57ac79e7-81e0-48f2-9ab5-a2bbab6f43eb.jpg)
+          차원의 사전적 정의는 위와 같다. 본문의 차원은 제일 상단의 수학적 의미를 이야기 한다. 차원은 총 0차원,1차원,2차원,3차원 그리고 4차원으로 나누어진다.
+          0차원은 점으로, 1차원은 점과 선으로 이루어져 있다. 3차원은 점,선,면으로 이루어져 있다는 점은 2차원과 같지만 입체적으로 구성되어있다는 것이 차이점이다. 
+          4차원은 3차원 세계에 사는 우리가 경험할 수 없다. 아래 그림2는 각 차원들을 알기쉽게 도형으로 시각화 해놓은 자료이다.
+          그림2![cubes1](https://user-images.githubusercontent.com/112813981/189083112-7ef26a6e-0143-4bb7-842d-727b1a41ded6.jpg)
+
+   ## Then why we use 2D? 
+      > 그렇다면 왜 우리는 2D를 사용할까? 
+          
+# 2. Digital
+# 3. Compositting
+# 4. Color
+        ## What is color? 
+           > 우리는 빛의 반사를 통해 색을 인지할 수 있다.
+             빛이 물체에 부딪치면 일부의 빛은 흡수되고 일부는 반사되는데,  이때 반사되는 빛에 따라 색이 표현된다.  
+             즉,  어떤 물체의 표면이 빨간색으로 보이는 것은 파랑과 초록 빛깔은 흡수하고 빨간 빛깔만 반사시키기 때문이다. 
+             _<구본영. (2007). 빛과 색의 과학적 원리교육을 위한 교재. Archives of Design Research, 20(6), 43 page>
+
+      ### RGB와 CMYK
+           > RGB는 빛의 색의 조합으로 혼합 될 수록 밝아지는 방식을 이야기한다. 여기서 철자는 각각 빨강(RED), 초록(GREEN), 파랑(Blue)의 삼원색을 뜻하며
+             우리는 이 삼원색의 혼합으로 거의 모든색을 볼 수 있다. 
+             CMYK는 물감의 조합으로 혼합 될 수록 어두워지는 방식을 말한다. 잉크의 조합과 같기 때문에 인쇄를 할때는 이 방식을 쓴다.
+             철자는 차례로 시안(Cyan), 마젠타(Magenta), 노랑(Yellow) 그리고 검정(Black) 을 의미하며 CMYK는 나타낼 수 있는 색상에 한계가 있어
+             RGB보다 적은 색상 수를 가진다. 
+     
+     ## What is ALPHA & OMEGA?
+     
+
+# 5. Colorspace / Gamut
+  ## why does it matter?
+  ## what are we using?
