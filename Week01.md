@@ -28,5 +28,7 @@ RGB는 빛의 색의 조합으로 혼합 될 수록 밝아지는 방식을 이�
 ![What-is-Color-Space-Gamut-•-Gamut-in-Color-Space](https://user-images.githubusercontent.com/112813981/194696581-dfb921ac-2f04-44a0-a0b3-65a452047606.jpg)
 BENQ의 이 이미지는 특정 공간 내의 표준 색 영역을 보여준다. 각 영역은 색상이 지정된 삼각형으로 표시된다. 
 <br/>(출처:https://www.studiobinder.com/blog/what-is-color-space-definition/)
-## why does it matter?
-## what are we using?
+### why does it matter?
+어떤 컬러스페이스를 이용하냐에 따라 결과물 값이 달라지기 때문이다. 각각의 컬러스페이스는 표현할 수 있는 색공간이 다르기 때문에 이를
+신경써서 살펴봐야 한다.
+### what are we using?
