@@ -44,7 +44,8 @@
 # 5. Colorspace / Gamut
      색 공간 은 시각적 평면에서 해석되고 표시될 수 있는 스펙트럼의 색상 범위이다. 이러한 디스플레이의 대부분은 RGB(빨간색, 녹색, 파란색) 색도 다이어그램을 통해 해석된 다음 
      처리되어 디지털/아날로그 이미지에 표시된다. 이는 색 영역으로 세분화 되는데, 색 영역이란 HSL 또는 색조, 채도 및 밝기로 3차원 공간의 RGB 스펙트럼에 표시되는 인지 가능한 색상 공간의 하위 집합이다. 
-     BENQ의 이 이미지는 특정 공간 내의 표준 색 영역을 보여준다. 각 영역은 색상이 지정된 삼각형으로 표시된다. 
+     [그림1]![What-is-Color-Space-Gamut-•-Gamut-in-Color-Space](https://user-images.githubusercontent.com/112813981/194696581-dfb921ac-2f04-44a0-a0b3-65a452047606.jpg)
+    BENQ의 이 이미지는 특정 공간 내의 표준 색 영역을 보여준다. 각 영역은 색상이 지정된 삼각형으로 표시된다. 
     (출처:https://www.studiobinder.com/blog/what-is-color-space-definition/)
   ## why does it matter?
   ## what are we using?
