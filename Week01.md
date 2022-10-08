@@ -32,3 +32,14 @@ BENQ의 이 이미지는 특정 공간 내의 표준 색 영역을 보여준다.
 어떤 컬러스페이스를 이용하냐에 따라 결과물 값이 달라지기 때문이다. 각각의 컬러스페이스는 표현할 수 있는 색공간이 다르기 때문에 이를
 신경써서 살펴봐야 한다.
 ### what are we using?
+![What-is-Color-Space-Gamut-•-Gamut-in-Color-Space](https://user-images.githubusercontent.com/112813981/194698130-8be2798d-2001-4268-b597-ed3eec47c81f.jpg)
+<br/>위는 ACES의 컬러스페이스다.
+<br/>**ACES 2065-1** - 사람의 눈보다 넓은 범위의 범위의 Linear, 색 공간이므로 보관용 복사 및 부서 간 자료 전송에 사용된다.
+<br/>**ACEScc 및 ACEScct** - 색상 보정을 위한 대수 색상 공간입니다.
+<br/>**ACEScg** - CG/VFX 작업을 위한 선형 공간이다. 이것은 렌더링된 이미지의 색상 설정 및 조명 작업을 위한 기본 색상 공간으로 사용해야 하는 공간이다.
+<br/>변환을 위한 주요 색상 공간은 다음과 같다.
+<br/>**Scene-linear Rec.709-sRGB**  - Rec.709 또는 sRGB 기본/색역(동일)을 사용하는 선형 이미지에 대해 선택한다.
+<br/>**RAW**  - 변환이 필요하지 않은 이미지용(스칼라 마스크, 변위, 거칠기).
+<br/>**sRGB**  - sRGB 이미지 텍스처에 권장되는 색상 공간 8-16비트(JPEG, PNG).
+<br/>**ACEScg**  - 이미 ACEScg로 변환된 이미지의 색 공간이다.
+<br/>(출처:https://docs.arnoldrenderer.com/display/A5KTN/ACES+Workflow)
