@@ -32,7 +32,7 @@ BENQ의 이 이미지는 특정 공간 내의 표준 색 영역을 보여준다.
 어떤 컬러스페이스를 이용하냐에 따라 결과물 값이 달라지기 때문이다. 각각의 컬러스페이스는 표현할 수 있는 색공간이 다르기 때문에 이를
 신경써서 살펴봐야 한다.
 ### what are we using?
-![What-is-Color-Space-Gamut-•-Gamut-in-Color-Space](https://user-images.githubusercontent.com/112813981/194698130-8be2798d-2001-4268-b597-ed3eec47c81f.jpg)
+![image001](https://user-images.githubusercontent.com/112813981/194698290-5b02b4c8-efcf-43cc-a3ea-72c0dc8c0015.jpg)
 <br/>위는 ACES의 컬러스페이스다.
 <br/>**ACES 2065-1** - 사람의 눈보다 넓은 범위의 범위의 Linear, 색 공간이므로 보관용 복사 및 부서 간 자료 전송에 사용된다.
 <br/>**ACEScc 및 ACEScct** - 색상 보정을 위한 대수 색상 공간입니다.
