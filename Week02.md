@@ -1,2 +1,2 @@
-# 2D-Digital-Compositing
-Research for  Digital Compositing
+# ColorSpace
+## R/G/B/A
