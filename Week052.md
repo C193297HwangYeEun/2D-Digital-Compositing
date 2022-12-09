@@ -29,6 +29,3 @@
 샷에 레이어를 추가해서 3차원 이미지의 환상을 제공하여 관객이 평평한 2차원 이미지를 보는 것과는 반대로 화면을 통해 제작자가 만든 세상을 볼 수 있다는 느낌을 줄 수 있다.
 ### FG(Fore ground), MG(Middleground), BG(Background) 
 순서대로 전경, 중경, 후경을 의미하며 각각의 거리감을 얼마나 어떻게 조절하냐에 따라 씬의 깊이감이 달라진다 이를 조절해 장면의 밀도도 높일 수 있다. 
-### Aerial diffusion
-### Texture diffusion
-### Color diffusion
