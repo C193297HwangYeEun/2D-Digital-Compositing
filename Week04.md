@@ -5,9 +5,12 @@
 <br/> >Ctrl+Shift+Alt- 한점을 기준으로 크기조절
 <br/> >Ctrl- 대칭 조절
 <br/> >Shift- 자유변형
-
+# 상대경로
+편집 > 프로젝트 설정 > Script Directory 누르면 [python {nuke.script_directory()}] 코드 입력됨
+<br/> 이후 파일 노드의 기본경로를 지워주고 상위 폴더로 지정해주기 ex)../Source/01.png
 # Etc.
-로토스코핑(O)
+프로젝트 세팅(S)
+<br/>로토스코핑(O)
 <br/>단축키 Z- 로토 선 부드럽게
 <br/>페더(E)- 로토 외곽 흐리게
 <br/>로토페인트(P)- 클론브러쉬 > 물체지우기 가능
