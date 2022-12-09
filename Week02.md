@@ -1,5 +1,5 @@
 # ColorSpace
 ## R/G/B/A
-<p align="center">![rgba](https://user-images.githubusercontent.com/112813981/206619964-5a8da47a-b729-4e8d-a7c0-f84d7874c0a1.jpg)</p>
+<p align="center"><img src=![rgba](https://user-images.githubusercontent.com/112813981/206619964-5a8da47a-b729-4e8d-a7c0-f84d7874c0a1.jpg)></p>
 <br/>RGB는 각각 Red(빨강), Green(초록), Blue(파랑)을 의미한다. 각 매개변수(빨간색, 녹색 및 파란색)는 0에서 255 사이의 색상 강도를 정의한다.
 예를 들어 RGB(255, 0, 0)은 빨간색이 가장 높은 값(255)으로 설정되고 나머지는 0으로 설정되기 때문에 빨간색으로 표시되며 rgb(0, 0, 0)과 같이 모든 색상 매개변수를 0으로 설정하면 검은색을 표시하게 된다. 흰색을 표시하려면 rgb(255, 255, 255)와 같이 모든 색상 매개변수를 255로 설정한다. A는 Alpha(알파) 를 의미하며 이는 불투명도를 조절한다. 알파 매개변수는 0.0(완전 투명)에서 1.0(전혀 투명하지 않음) 사이의 숫자이다.
