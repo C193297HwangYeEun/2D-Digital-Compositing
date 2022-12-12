@@ -6,7 +6,9 @@
 ## What are we doing?
 우리는 크로마키를 사용하여 다양한 것들을 할 수 있다. 배우를 새로운 세계에 데려다 놓을 수도 있으며 좁은 공간을 더 깊고 넓게 만들거나 할 수 있다.
 ## Chromakey lighting
-
+배경과 인물둘다에 각각 조명을 배치한다. 아래 사진 참고
+<br/>![001](https://user-images.githubusercontent.com/112813981/207102738-19566e4c-9806-4413-ae63-1d8c3e80fe12.jpg)
+<br/>![002](https://user-images.githubusercontent.com/112813981/207102749-5e7b4f71-5ef2-49b5-ba4b-a08643c7a556.jpg)
 # Keyers
 ## Soft key, Hard key +keymix
 Soft key를 이용해 외곽 자연스럽게 다듬기
