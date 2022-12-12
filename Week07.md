@@ -12,7 +12,7 @@
 # Keyers
 ## Soft key, Hard key +keymix
 Soft key를 이용해 외곽 자연스럽게 다듬기
-Hard key를 이용해 선명하게 그린스크린과 분리, 살짝 안쪽으로 들어가게
-Keymix > Soft key와 Hard key를 결합, 이후 Merge 사용
+<br/>Hard key를 이용해 선명하게 그린스크린과 분리, 살짝 안쪽으로 들어가게
+<br/>Keymix > Soft key와 Hard key를 결합, 이후 Merge 사용
 ### Despill madness
 디스필을 사용해 키를 쉽게 뺄수 있음
