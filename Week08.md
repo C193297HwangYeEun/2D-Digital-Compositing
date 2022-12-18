@@ -8,5 +8,5 @@
 전체적인 밝기를 조절한다.
 ### Lift & Gain/Multiply
 어두운 영역 주변 조절/밝은영역 조절/기본 톤 영역 조절
-### Reformat
+# Reformat
 파일 크기 조정
